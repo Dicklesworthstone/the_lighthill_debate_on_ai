@@ -18,6 +18,10 @@ Lighthill's final remarks in the debate are *"I think that in practical terms, i
 
 Sadly, Lighthill died in 1997 from a heart valve rupture while swimming around the island of Sark, so he didn't live to see it. But his son and 4 daughters are very much still alive, and they have indeed lived to see what I suspect even Lighthill would admit is a compelling indication that the "mirage" of AI just might be real after all.
 
+| ![Profile Photos of the Speakers](https://raw.githubusercontent.com/Dicklesworthstone/the_lighthill_debate_on_ai/main/speakers_profile_photos.webp) | 
+|:--:| 
+| *The Speakers (left to right): Don Michie; John McCarthy;  James Lighthill; Richard Gregory* |
+
 
 ## The Full Transcript of the Debate
 
