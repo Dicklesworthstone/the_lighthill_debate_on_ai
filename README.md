@@ -1,4 +1,4 @@
-# The Lighthill Debate on AI from 1973: An Introduction and Transcript
+# The Lighthill Debate on AI from 1973: An Introduction and Transcript, With Some Reflections
 
 ![Illustration](https://raw.githubusercontent.com/Dicklesworthstone/the_lighthill_debate_on_ai/main/illlustration.webp)
 
