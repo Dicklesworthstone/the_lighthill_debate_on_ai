@@ -1,12 +1,10 @@
 # The Lighthill Debate on AI from 1973: An Introduction and Transcript
 
+
+
 ## Introduction by Jeffrey Emanuel
 
-In 1973, the British scientist James Lighthill published a report on the state of artificial intelligence research in the UK. The report was highly critical of the field, and led to a significant reduction in funding for AI research in the UK. The report was controversial, and led to a debate between Lighthill and several leading AI researchers, including John McCarthy, the creator of the LISP programming language, and Donald Michie, a pioneer in machine learning. The debate took place at the Royal Institution in London on May 9, 1973. You watch the full video of the debate on YouTube here:
-
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/03p2CADwGF8?si=Zt4gYWbzR6Z51jiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+In 1973, the British scientist James Lighthill published a report on the state of artificial intelligence research in the UK. The report was highly critical of the field, and led to a significant reduction in funding for AI research in the UK. The report was controversial, and led to a debate between Lighthill and several leading AI researchers, including John McCarthy, the creator of the LISP programming language, and Donald Michie, a pioneer in machine learning. The debate took place at the Royal Institution in London on May 9, 1973. You watch the full video of the debate on YouTube [here](https://www.youtube.com/watch?v=03p2CADwGF8).
 
 In this article, we will provide an introduction to the debate, and a transcript of the debate itself (generated using the Whisper transcription model via a [custom script](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist)) and formatted as markdown with speaker identification. The debate is a fascinating historical document, and provides a valuable insight into the early history of AI research, and the controversies that surrounded the field at the time.
 
