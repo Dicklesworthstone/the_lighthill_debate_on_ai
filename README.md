@@ -350,7 +350,7 @@ Anyway, It's easy to point out flaws from the cheap seats and with the benefit o
 ### Christopher Strachey's Perspective:
 - **AI as Too Difficult**: Strachey expresses his decision not to work in AI, citing its difficulty. **In hindsight, while AI has proven to be a challenging field, it has also been one of rapid progress and significant breakthroughs, demonstrating that its challenges are not insurmountable**.
 
-- **Machine Translation Skepticism**: Strachey references a "recent incorrect prophecy" about machine translation, stating it was cheaper to use humans than machines for translation. **This view has been dramatically overturned, as current machine translation systems like Google Translate and DeepL offer fast, efficient, and increasingly accurate translations across many languages, often free of charge**.
+- **Machine Translation Skepticism**: Strachey references a "recent incorrect prophecy" about machine translation, stating it was cheaper to use humans than machines for translation. **This view has been dramatically overturned, as current machine translation systems like Google Translate and ChatGPT offer fast, efficient, and increasingly accurate translations across many languages, often free of charge**.
 
 - **Misestimation of Intellectual Difficulties**: Strachey criticizes the AI community for underestimating the intellectual difficulties of the field. **While early optimism in AI may have underestimated some challenges, the field has matured significantly, addressing complex problems with innovative solutions and making substantial advances that were once thought to be far off**.
 
