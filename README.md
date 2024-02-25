@@ -2,7 +2,7 @@
 
 ![Illustration](https://raw.githubusercontent.com/Dicklesworthstone/the_lighthill_debate_on_ai/main/illlustration.webp)
 
-## Introduction by Jeffrey Emanuel
+## Introduction (*by Jeffrey Emanuel*)
 
 In 1973, the British scientist James Lighthill published a report on the state of artificial intelligence research in the UK. The report was highly critical of the field, and led to a significant reduction in funding for AI research in the UK. The report was controversial, and led to a debate between Lighthill and several leading AI researchers, including John McCarthy, the creator of the LISP programming language, and Donald Michie, a pioneer in machine learning. The debate took place at the Royal Institution in London on May 9, 1973. You can watch the full video of the debate on YouTube [here](https://www.youtube.com/watch?v=03p2CADwGF8).
 
